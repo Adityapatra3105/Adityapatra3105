@@ -1,5 +1,4 @@
-<!-- Banner / Header -->
-![Aditya Patra - Software Engineer]
+
 
 <h1 align="center">Hi 👋, I'm Aditya Patra</h1>
 <h3 align="center">🚀 Software Engineer | AI & ML Enthusiast | Full Stack Developer</h3>
